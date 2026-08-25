@@ -26,4 +26,4 @@ This is a beginner-friendly Library Management System developed using C# as part
 ### C# Beginner | Learning .NET & Object-Oriented Programming
 ## Project Output
 
-![Library Management System Output](Screenshot 2026-08-25 111008.png)
+![Library Management System Output](library-output.png)
